@@ -11,6 +11,13 @@ Install pygame
 
 Start with ```python UpdatingVillagerSim.py```
 
+Tests
+-----
+For the tests you need pep8, istall with:
+'pip Install --upgrade pep8'
+
+Start with ```nosetests```
+
 Licence
 -------
 
